@@ -1,0 +1,3 @@
+In this project, our team developed a Robo-advisor chatbot using the IBM Cloud platform Watson Assistant to operate as an investment counselor with potential clients. 
+During the conversation, we aim to let our clients express their preferences and willingness, and the Robo-advisor Chatbot will make an investment suggestion, 
+such as a recommended portfolio strategy.
